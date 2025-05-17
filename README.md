@@ -46,6 +46,7 @@ start index.html
 ✨ Screenshots
 
 ![image alt](https://github.com/rvsony761/Tic_tac_toe/blob/bb20ccb86a8a9202202a820f0acc16f4c08a973f/image_2.png)
+
 ![image alt](https://github.com/rvsony761/Tic_tac_toe/blob/59afee770ad1d5caff9021c086fe68bf2341a6c2/image_1.png)
 
 
