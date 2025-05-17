@@ -44,7 +44,7 @@ Open index.html in your browser:
 start index.html
 
 ✨ Screenshots
-(Add screenshots here by uploading images to the repo and linking them)
+![image alt](https://github.com/rvsony761/Tic_tac_toe/blob/59afee770ad1d5caff9021c086fe68bf2341a6c2/image_1.png)
 
 👨‍💻 Author
 Your Name
